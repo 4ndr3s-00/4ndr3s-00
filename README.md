@@ -59,6 +59,10 @@ I'm a **Software Developer in training** at **RIWI**, focused on building real p
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n" />
+</p>
+
 ---
 
 ### 📌 Featured Project
