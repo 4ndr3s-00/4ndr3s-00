@@ -1,14 +1,25 @@
-<h1 align="center">Hi 👋, I'm Andres</h1>
-<h3 align="center">Software Developer in training @ RIWI</h3>
-<p align="center">
-  Sharpening backend + frontend skills every day 🚀
-</p>
+<div align="center">
+
+```
+andres@github:~
+$ ./whoami
+Software Developer — building things that work
+$ cat focus.txt
+backend · applied AI · working free-tier · arch + hyprland
+$ ./start --develop
+```
+
+### **Andres Teheran** · `@4ndr3s-00`
+
+_Software Developer in training @ **RIWI**_
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://4ndr3s-00.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/andres-teheran/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/4ndr3s-00"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+</div>
 
 ---
 
@@ -16,65 +27,112 @@
 
 I'm a **Software Developer in training** at **RIWI**, focused on building real projects while sharpening my backend and frontend skills.
 
-- 🔭 Currently building **Mentia** — FastAPI + Vanilla JS SPA + PostgreSQL
+- 🔭 Currently building **freecode-zero** — run OpenCode 100% free, forever
+- 👨‍🏫 And **Mentia** — adaptive learning platform with a rule-based ranking engine
 - 🌱 Deepening my knowledge of **TypeScript, React and Node.js**
 - 🐧 Daily driver: **Arch Linux + Hyprland**, fully customized
-- 🎯 Focus areas: **backend development** and **applied AI**
-- ⚡ Fun fact: I like learning new things and *estar parchao*
+- 🧠 Focus areas: **backend development** and **applied AI**
+- ⚡ Fun fact: I like learning new things and _estar parchao_
+
+---
+
+### 📌 Featured Projects
+
+#### 🔥 freecode-zero — OpenCode 100% free
+
+<p>
+  <a href="https://github.com/4ndr3s-00/freecode-zero"><img src="https://img.shields.io/badge/freecode__zero-github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/%240%2Fmo-%24100%25_FREE-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+Ready-to-use **OpenCode setup at $0/month** — free AI models on the OpenCode Zen free tier, per-account backups (Google AI Studio + OpenRouter) that never run out at the same time, and a plugin that kills the *"retry zombie"* when a free provider saturates. No credit card needed.
+
+`opencode.json` · `zen-guard.ts` (anti-429 plugin) · `setup.sh` · full free-tier guide
+
+**Why it exists:** the Zen free tier runs out daily (per-IP quota). Instead of paying, it switches intelligently between free tiers that never collide.
+
+---
+
+#### 🧠 Mentia — Adaptive Learning Platform
+
+<p>
+  <a href="https://github.com/4ndr3s-00/mentia-learning-lab"><img src="https://img.shields.io/badge/Mentia-Adaptive_Learning_Platform-6D28D9?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+Diagnoses learner profiles, recommends personalized methodologies, and measures effectiveness through a **dynamic ranking system** — rule-based classification engine (no ML dependency), FastAPI backend, Vanilla JS SPA frontend, and PostgreSQL.
+
+---
+
+#### 🗺️ What I'm working on next
+
+- Strengthening **TypeScript + React** on the frontend
+- Pushing **FastAPI + PostgreSQL** backend patterns
+- Automating workflows with **n8n** and **OpenCode**
+- More free-tier tools in the style of freecode-zero
+
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
+**Languages**
+
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-<p align="center">
+**Frontend**
+
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-<p align="center">
+**Backend & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<p align="center">
+**DevOps & Tools**
+
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n" />
 </p>
 
 ---
 
-### 📌 Featured Project
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/4ndr3s-00/mentia-learning-lab">
-    <img src="https://img.shields.io/badge/Mentia-Adaptive_Learning_Platform-6D28D9?style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=4ndr3s-00&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndr3s-00&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=cccccc" />
 </p>
-
-**Mentia** diagnoses learner profiles, recommends personalized methodologies, and measures effectiveness through a dynamic ranking system — built with a rule-based classification engine (no ML dependency), FastAPI backend, Vanilla JS SPA frontend, and PostgreSQL.
 
 ---
 
 <p align="center"><i>"Estar parchao, seguir aprendiendo, y construir cosas que funcionen."</i></p>
+<p align="center"><code>&gt; EOF — thanks for visiting</code></p>
