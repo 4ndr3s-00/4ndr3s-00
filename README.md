@@ -133,6 +133,10 @@ Diagnoses learner profiles, recommends personalized methodologies, and measures 
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-5.x-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyMuPDF-High_Performance-FF5722?style=for-the-badge" />
 </p>
 
 ---
