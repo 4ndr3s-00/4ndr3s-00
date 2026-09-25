@@ -127,9 +127,9 @@ Diagnoses learner profiles, recommends personalized methodologies, and measures 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ndr3s-00&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+  <img height="165" alt="Estadísticas de GitHub" src="https://github-readme-stats-fast.vercel.app/api?username=4ndr3s-00&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndr3s-00&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=cccccc" />
+  <img height="165" alt="Lenguajes más usados" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=4ndr3s-00&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=cccccc" />
 </p>
 
 ---
