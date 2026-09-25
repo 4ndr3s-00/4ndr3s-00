@@ -1,13 +1,3 @@
-<div align="center">
-
-```
-andres@github:~
-$ ./whoami
-Software Developer — building things that work
-$ cat focus.txt
-backend · applied AI · working free-tier · arch + hyprland
-$ ./start --develop
-```
 
 ### **Andres Teheran** · `@4ndr3s-00`
 
@@ -23,12 +13,13 @@ _Software Developer in training @ **RIWI**_
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 I'm a **Software Developer in training** at **RIWI**, focused on building real projects while sharpening my backend and frontend skills.
 
-- 🔭 Currently building **freecode-zero** — run OpenCode 100% free, forever
-- 👨‍🏫 And **Mentia** — adaptive learning platform with a rule-based ranking engine
+- 🔭 Built **PDF-Engine** — high-performance hybrid document processing & local AI extraction (< 3.5s per doc)
+- 🚀 Created **freecode-zero** — run OpenCode 100% free, forever
+- 👨🏫 And **Mentia** — adaptive learning platform with a rule-based ranking engine
 - 🌱 Deepening my knowledge of **TypeScript, React and Node.js**
 - 🐧 Daily driver: **Arch Linux + Hyprland**, fully customized
 - 🧠 Focus areas: **backend development** and **applied AI**
@@ -37,6 +28,28 @@ I'm a **Software Developer in training** at **RIWI**, focused on building real p
 ---
 
 ### 📌 Featured Projects
+
+#### 📄 PDF-Engine — High-Performance Hybrid Document & OCR Engine
+
+<p>
+  <a href="https://github.com/4ndr3s-00/PDF-Engine"><img src="https://img.shields.io/badge/PDF--Engine-github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyMuPDF-C--Level-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-Parallel-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Local_AI-Qwen_2.5-8B5CF6?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+Industrial-grade document processing and search engine built for **high speed and zero cloud costs ($0/mo, 100% on-premise privacy)**. Unifies digital text, parallel OCR, sub-millisecond spatial search, and local LLM extraction. Processes 8 mixed complex pages (thermal receipts, medical prescriptions, Colombian ID cards front & back) in **~3.4 seconds**.
+
+- **Intelligent Dual-Stream OCR:** C-level digital parsing (PyMuPDF) + selective parallel OCR (Tesseract) with deduplication so digital pages are never rendered.
+- **Watermark & Header Recovery:** High-pass local background subtraction filter (`NumPy` + `--psm 11`) to detect faint watermarks, logos, and dot-matrix fonts that standard layout analyzers drop.
+- **Spatial Word Index & Predictive Search (< 4 ms):** Maps exact `[x0, y0, x1, y1]` coordinates for in-browser visual highlighting. Features 4-tier match hierarchy: exact, prefix/autocomplete (`doc` ➔ `doctor`), internal substrings, and Levenshtein fuzzy fallback.
+- **Compound & ID Normalization:** Decomposes delimited medication codes (`CO9CA0101-LOSARTAN` ➔ `losartan`) and indexes clean unpunctuated national IDs (`1.043.589.150` ➔ `1043589150`) including MRZ barcode lines.
+- **Pruned Context AI Extraction:** Qwen 2.5 via local Ollama for structured JSON and Q&A with an **anti-hallucination guard** (`null` with confidence 0 when no evidence is found).
+
+---
 
 #### 🔥 freecode-zero — OpenCode 100% free
 
