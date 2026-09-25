@@ -32,7 +32,7 @@ I'm a **Software Developer in training** at **RIWI**, focused on building real p
 #### 📄 PDF-Engine — High-Performance Hybrid Document & OCR Engine
 
 <p>
-  <a href="https://github.com/4ndr3s-00/PDF-Engine"><img src="https://img.shields.io/badge/PDF--Engine-github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/estebanp26/PDF-Engine.git"><img src="https://img.shields.io/badge/PDF--Engine-github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PyMuPDF-C--Level-FF5722?style=for-the-badge" />
