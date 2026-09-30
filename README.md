@@ -3,7 +3,7 @@
 
 _Software Developer in training @ **RIWI**_
 
-<p align="center">
+<p>
   <a href="https://4ndr3s-00.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/andres-teheran/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/4ndr3s-00"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
